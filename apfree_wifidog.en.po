@@ -1,0 +1,159 @@
+msgid "无线认证"
+msgstr "WifiPortal"
+
+msgid "无线认证程序未安装.."
+msgstr "WifiPortal is not installed.."
+
+msgid ""
+"兼容WIFIDOG，"
+"对访问网络的接入客户进行认证"
+msgstr ""
+"provides a perfect wifi portal"
+",to authorize the wifi users"
+
+msgid "无线认证程序未启动"
+msgstr "WifiPortal not running"
+
+msgid "已运行"
+msgstr "Running"
+
+msgid "运行状态"
+msgstr "Portal Status"
+
+msgid "程序配置"
+msgstr "Portal Settings"
+
+msgid "基本设置"
+msgstr "Basic Settings"
+
+msgid "访问控制"
+msgstr "Access Control"
+
+msgid "高级设置"
+msgstr "Advanced Control"
+
+msgid "启用"
+msgstr "Enable"
+
+msgid "打开或关闭认证"
+msgstr "Enable or Disable Wifi Portal"
+
+msgid "设备 ID"
+msgstr "Device ID"
+
+msgid "默认为设备MAC地址"
+msgstr "MAC Address default"
+
+msgid "认证服务器"
+msgstr "Auth Server"
+
+msgid "认证服务器地址, 可填写域名或IP"
+msgstr "IP of the Auth Server, domain or ip be accepted"
+
+msgid "服务器端口"
+msgstr "Server Port"
+
+msgid "认证服务器HTTP服务端口"
+msgstr "HTTP Port of the Auth Server"
+
+msgid "服务器路径"
+msgstr "Server Path"
+
+msgid "服务端WEB目录，必须以'/'结尾，例如'/wifidog/'"
+msgstr "WEB Path of the Auth Server, Ended by '/', '/wifidog/' for Example"
+
+msgid "线程池模式"
+msgstr "Thread-Pool Model"
+
+msgid "是否开启线程池"
+msgstr "Enable the Thread Pool"
+
+msgid "线程数"
+msgstr "Thread Count"
+
+msgid "设置线程池中的最大线程数"
+msgstr "Max Thread Count in Pool"
+
+msgid "队列大小"
+msgstr "Queue Size"
+
+msgid "线程池的任务队列长度"
+msgstr "Size of Task Queue in Thread Pool"
+
+msgid "内网接口"
+msgstr "Intranet Interface"
+
+msgid "指定开启portal认证的网络接口，默认'br-lan'"
+msgstr "Interface to enable authorize, 'br-lan' default"
+
+msgid "检查间隔"
+msgstr "Check Interval"
+
+msgid "接入客户端在线检测间隔，默认60秒"
+msgstr "Check Interval of connected clients, 60 seconds default"
+
+msgid "超时时间"
+msgstr "Timing Out"
+
+msgid "客户离线后在此时间段内重新连接不需要再次认证，默认5分"
+msgstr "Timerange without Authenticate if Clients Offline, 5 mins default"
+
+msgid "最大接入用户数"
+msgstr "Max Clients Count"
+
+msgid "最大可同时在线的用户数"
+msgstr "Max Available Clients Count"
+
+msgid "域名白名单"
+msgstr "Domain Whitelist"
+
+msgid "不用通过认证既可访问的网址，不含\"http://\", 多个URL请用 ,号隔开"
+msgstr "Domain can directly be accessed, not contain \"http://\", separated by , if multi URL"
+
+msgid "IP白名单"
+msgstr "IP Whitelist"
+
+msgid "不用通过认证既可连接的ip, 多个地址请用 ,号隔开"
+msgstr "IP Address can directly access the network, separated by , if multi address"
+
+msgid "MAC白名单"
+msgstr "MAC Whitelist"
+
+msgid "非强制认证的用户MAC，多个MAC请用 ,号隔开"
+msgstr "MAC Address can directly access the network, separated by , if multi address"
+
+msgid "MAC黑名单"
+msgstr "MAC Blacklist"
+
+msgid "禁止访问网络的MAC，多个MAC请用 ,号隔开"
+msgstr "MAC Address prohibited to access the network, separated by , if multi address"
+
+msgid "WifiPortal 程序未启动"
+msgstr "WifiPortal is not running"
+
+msgid "已运行"
+msgstr "Running"
+
+msgid "没有客户端连接"
+msgstr "No Clients Connected"
+
+msgid "已认证客户端"
+msgstr "Clients Authorized"
+
+msgid "主机名"
+msgstr "Hostname"
+
+msgid "IP 地址"
+msgstr "IP Address"
+
+msgid "MAC 地址"
+msgstr "MAC Address"
+
+msgid "上传"
+msgstr "Upload"
+
+msgid "下载"
+msgstr "Download"
+
+msgid "在线时长"
+msgstr "Online Time"
