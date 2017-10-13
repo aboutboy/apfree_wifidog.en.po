@@ -4,11 +4,16 @@ msgstr "WifiPortal"
 msgid "无线认证程序未安装.."
 msgstr "WifiPortal is not installed.."
 
+msgid "<span id=\"wifidog-status\" style=\"color:green;margin-left:50px\">已运行 \" .. UpTime ..\"</span> <a target=\"_blank\" href=\" .. StatusUrl .. \"> 查看更多</a>"
+msgstr "<span id=\"wifidog-status\" style=\"color:green;margin-left:50px\">Running \" .. UpTime ..\"</span> <a target=\"_blank\" href=\" .. StatusUrl .. \"> Detailed Status</a>"
+
 msgid ""
+"<a target=\"_blank\" href=\"http://www.butong.me\">无线认证</a>"
 "兼容WIFIDOG，"
 "对访问网络的接入客户进行认证"
 msgstr ""
-"provides a perfect wifi portal"
+"<a target=\"_blank\" href=\"http://www.butong.me\">WifiPortal</a>"
+"provides a perfect portal"
 ",to authorize the wifi users"
 
 msgid "无线认证程序未启动"
